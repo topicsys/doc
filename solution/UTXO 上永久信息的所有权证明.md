@@ -1,5 +1,10 @@
 ## UTXO 上永久信息的所有权证明
 
+- _Copy from: https://gitee.com/dedge/doc/blob/master/UTXO%20%E4%B8%8A%E6%B0%B8%E4%B9%85%E4%BF%A1%E6%81%AF%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%83%E8%AF%81%E6%98%8E.md_
+
+##### v1.0.0
+##### 作者：中成才
+
 #### _**问题：** 如何证明你对某个 UTXO 有控制权？（即：你拥有这 UTXO 的私钥。）_
 
 

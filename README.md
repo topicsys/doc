@@ -1,3 +1,3 @@
 # Doc
 
-For edit white and yellow paper.
+For edit documents and papers.
